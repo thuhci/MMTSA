@@ -7,3 +7,22 @@ In this paper, we proposed an efficient multimodal neural architecture for HAR u
 
 ![MMTSA Architecture](doc/model.png "MMTSA")
 
+## Citing
+When using this code, kindly reference:
+
+```
+@article{gao2023mmtsa,
+  title={MMTSA: Multi-Modal Temporal Segment Attention Network for Efficient Human Activity Recognition},
+  author={Gao, Ziqi and Wang, Yuntao and Chen, Jianguo and Xing, Junliang and Patel, Shwetak and Liu, Xin and Shi, Yuanchun},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={7},
+  number={3},
+  pages={1--26},
+  year={2023},
+  publisher={ACM New York, NY, USA}
+}
+```
+
+## Acknowledgements
+The codebase was built on top of [TBN](https://github.com/ekazakos/temporal-binding-network). Many thanks to Kazakos et. al for previous work.
+
